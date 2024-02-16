@@ -1,0 +1,8 @@
+Instrucciones para ejecutar el programa:
+
+1. Instalar python se comparte enlace para la descarga: https://www.python.org/downloads/
+2. Instalar Graphviz se comparte enlace para la descarga: https://graphviz.org/download/
+3. Instalar la librería de graphviz con la siguiente terminal: pip install graphviz
+4. Utilizar un editor de código fuente por ejemplo Visual Code 
+5. Ejecutar el código
+6. La imagen del grafo se guarda en la carpeta donde se ejecute el código
